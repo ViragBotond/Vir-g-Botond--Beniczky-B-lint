@@ -59,6 +59,7 @@ a{
     text-align: right;
     font-style: italic;
     font-size: 0.2em;
+    display: block;
 }
 ul{
     text-align: left;
